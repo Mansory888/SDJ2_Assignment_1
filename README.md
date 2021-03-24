@@ -36,4 +36,4 @@ From a GUI with at least two windows, you:
 ## The result
 ![Example](Therrmo.png)
 ## Class Diagram
-![Example](Statemachine Diagram0.png)
+![Example](Statemachine Diagram.png)
