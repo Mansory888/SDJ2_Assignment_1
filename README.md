@@ -37,3 +37,4 @@ From a GUI with at least two windows, you:
 ![Example](Therrmo.png)
 ## Class Diagram
 ![Class](Class Diagram1.png)
+![Example](Therrmo.png)
