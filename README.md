@@ -9,7 +9,7 @@ The indoor temperatures are measured in two locations, thermometer t1 near the h
 
 The temperature depends on the heaters power, the distance to the heater and the outdoor temperature. The method given in Appendix on the last pagemay be used to calculate temperature values
 
-![Example](C:\Users\Nick\Desktop\Screenshot.png)
+![Example](Screenshot.png)
 
 
 
