@@ -32,3 +32,6 @@ From a GUI with at least two windows, you:
 - You must use the State design pattern for the different power states for the radiator. This includes that power state 3 has a timeout andautomatically turnsdown the radiator after say 40 seconds.
 - You must use a thread for each of the thermometers t1 and t2. 
 - It is required to make a class diagram for the final solution and a state machinediagram for the radiator (both in Astah). In the diagram you mustbe able clearly to identify the different MVVM parts,the Observer pattern, the State patternand the classes related to the threads.
+
+##The result
+![Example](Therrmo.png)
